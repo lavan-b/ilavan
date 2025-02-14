@@ -41,15 +41,6 @@ Behold! My meticulously crafted personal portfolio, showcasing my web developmen
 
     Then navigate to `http://localhost:8000` (or the port shown in your terminal).
 
-## 📁 File Structure
-
-ilavan-portfolio/
-├── index.html # Main HTML file
-├── style.css # CSS stylesheet
-├── script.js # JavaScript code
-├── favicon.ico # Website icon
-└── README.md # This file!
-
 ## ⚠️ Intended Use
 
 This code is primarily intended as a showcase of my skills and style. I'm sharing it for educational purposes and inspiration.  I kindly request that you refrain from directly copying or reusing significant portions of this code in your own projects without substantial modification. Feel free to adapt ideas and concepts, but please ensure that your work is original and reflects your own creative efforts.
@@ -70,6 +61,5 @@ I'm Lavanbarath B, a web developer passionate about creating beautiful and funct
 
 If you like this project, give it a star! ⭐ It motivates me to create more amazing things.
 
----
 
 Made with ❤️ by none other than the guy behind yo!
