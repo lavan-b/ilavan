@@ -14,9 +14,9 @@ Behold! My meticulously crafted personal portfolio, showcasing my web developmen
 
 ## 🛠️ Technologies Used
 
-*   **HTML:**  The structural foundation of the site. 뼈대 🧱
-*   **CSS:**  My styling language of choice. 스타일 ✨
-*   **JavaScript:**  I breathed life into this site with JavaScript magic. 두뇌 🧠
+*   **HTML:**  The structural foundation of the site. 🧱
+*   **CSS:**  My styling language of choice. ✨
+*   **JavaScript:**  I breathed life into this site with JavaScript magic. 🧠
 *   **Iconify:**  A wide variety of icons adorn the social media section thanks to Iconify. 🖼️
 *   **Google Fonts:** I've hand-picked distinctive fonts from Google Fonts. ✍️
 
