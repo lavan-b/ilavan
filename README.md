@@ -7,8 +7,6 @@ Behold! My meticulously crafted personal portfolio, showcasing my web developmen
 *   **Striking Design:** I've created a visually engaging experience with animated blobs dancing across a sleek dark theme. 🖤
 *   **Dynamic Name Animation:** I programmed my name to gracefully fade in with a custom animation sequence. 🤩
 *   **Interactive Social Icons:** I've added clickable social media icons that respond with engaging hover effects, making it easy for you to connect with me! 🔗
-*   **Humorous Bio Generator:** I wrote a set of witty bio lines, delivered randomly upon hovering over the "poke me" button. 😄
-*   **Countdown Timer:** A touch of whimsy with a quirky countdown timer that unveils a hidden message. ⏳
 *   **Responsive Design:** This website is responsive across devices from desktop to mobile. 📱💻
 *   **Performant:** I've optimized this site for smooth performance by efficient code and resource loading. ⚡
 
